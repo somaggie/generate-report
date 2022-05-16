@@ -1,0 +1,21 @@
+Order Date: 01/01/21  Order ID: 112-5248654  Title: MIULEE Set of 2, 12x20 Pillow Inserts  Category: HOME_BED_AND_BATHROOM  ASIN/ISBN: B07M8RTF3G  UNSPSC Code: 52120000  Seller: Miulee Home  Purchase Price $15.99
+
+Order Date: 01/01/20  Order ID: 112-5248654  Title: Krispy Kreme Classic Keurig Single  Category: GROCERY  ASIN/ISBN: B0798LF9DX  UNSPSC Code: 50000000  Seller: Amazon.com  Price: $12.94
+
+Order Date: 01/01/20  Order ID: 112-5248654  Title: MIULEE Pack of 2, Velvet Soft Solid  Category: HOME_BED_AND_BATHROOM  ASIN/ISBN: B07JPR33GL  UNSPSC Code: 52121512  Seller: Miulee Home  Price: $11.99
+
+Order Date: 01/09/20  Order ID: 112-2797108  Title: The ConfiDental-Pack of 5 Moldable  Category: BEAUTY  ASIN/ISBN: B075FV78W8  UNSPSC Code: 53131600  Seller: Little Team  Price: $11.02
+
+Order Date: 01/15/20  Order ID: 112-4798990  Title: Krispy Kreme Classic Keurig Single  Category: GROCERY  ASIN/ISBN: B0798LF9DX  UNSPSC Code: 50000000  Seller: Amazon.com  Price: $12.94
+
+Order Date: 01/18/20  Order ID: 113-4707562  Title: Aurrako Non Slip Rug Pads  Category: HOME-FURNITURE  ASIN/ISBN: B07Y1PXCBM  UNSPSC Code: 56100000  Seller: Aurrako  Price: $6.99
+
+Order Date: 01/18/20  Order ID: 113-4707562  Title: Odd Easy Coffee Pod Holder Glass Top  Category: KITCHEN  ASIN/ISBN: B07X8FGRLB  UNSPSC Code: 52150000  Seller: Odd Easy  Price: $23.99
+
+Order Date: 01/18/20  Order ID: 113-4707562  Title: Aurrako Original Area Rug Gripeer Pad  Category: HOME-FURNITURE  ASIN/ISBN: B07R5J47HT  UNSPSC Code: 56100000  Seller: Aurrako  Price: $15.99
+
+Order Date: 01/21/20  Order ID: 112-0099159  Title: SoftTouch 4681095N, Cherry Furniture  Category: HARDWARE  ASIN/ISBN: B004670YOK  UNSPSC Code: 31162701  Seller: Amazon.com  Price: $8.99
+
+Order Date: 01/28/20  Order ID: 113-2485619  Title: Krispy Kreme Classic Keurig Single  Category: GROCERY  ASIN/ISBN: B0798LF9DX  UNSPSC Code: 50000000  Seller: Amazon.com  Price: $14.99
+
+Order Date: 01/28/20  Order ID: 113-8296863  Title: Nylabone Double Action Dog Chew  Category: PET_SUPPLIES  ASIN/ISBN: B000ER3QM8  UNSPSC Code: 10110000  Seller: Amazon.com  Price: $7.25
